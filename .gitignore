@@ -1,0 +1,7 @@
+# Package files
+
+package-lock.json
+package.json
+
+# System files
+.vscode
