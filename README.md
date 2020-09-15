@@ -1,1 +1,1 @@
-# js-learning
+# Learning some js features and libraries
