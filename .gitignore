@@ -5,3 +5,6 @@ package.json
 
 # System files
 .vscode
+
+# Node files
+node_modules
